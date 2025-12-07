@@ -1,0 +1,2 @@
+# Underwater-Data-Transmission-using-Li-Fi-Technology
+•Developed a Li-Fi based underwater communication system to transmit text and audio data using visible light. •Designed transmitter using laser module and Arduino with On-Off Keying (OOK) modulation for digital data encoding. •Built receiver setup using solar panel/photodiode and audio amplifier to convert light signals back into electrical signals
